@@ -1,1 +1,6 @@
-remote_theme: mmistakes/minimal-mistakes
+collections:
+- docs
+defaults:
+  - scope:
+      path: ""
+      type: docs
